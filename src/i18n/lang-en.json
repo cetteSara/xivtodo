@@ -179,7 +179,9 @@
     "addCustomDaily": "Add custom daily",
     "hide": "Hide",
     "show": "Show",
-    "remove": "Remove"
+    "remove": "Remove",
+    "hideStatus": "There {0} hidden task.",
+    "hideStatusPlural": "There {0} hidden tasks."
   },
   "settings": {
     "characters": "Characters",
